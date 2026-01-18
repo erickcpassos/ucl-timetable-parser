@@ -16,4 +16,4 @@ Note that importing a .ics file instead of linking the URL, the calendar will no
 
 ## Next steps
 
-- [] Include menu to select which fields will be removed 
+- [] Include menu to select which fields will be removed
